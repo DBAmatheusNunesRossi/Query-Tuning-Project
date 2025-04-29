@@ -4,6 +4,8 @@
 
 Bem-vindo a este guia prático sobre Query Tuning no SQL Server! O objetivo deste material é fornecer uma visão abrangente e didática das principais técnicas e ferramentas utilizadas para otimizar o desempenho de consultas em bancos de dados SQL Server.
 
+![Image](https://github.com/user-attachments/assets/cdd11ced-1d2f-4789-9d64-a47ad9f97dde)
+
 Utilizaremos um banco de dados de exemplo chamado `BibliotecaDB`, que simula um sistema de gerenciamento de biblioteca simples. Os scripts SQL fornecidos (Criacao_Banco_Biblioteca e Populacao_Banco_Biblioteca) devem ser executados antes de prosseguir com os exemplos deste guia.
 
 Este guia está dividido nas seguintes seções principais:
